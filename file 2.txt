@@ -1,0 +1,3 @@
+ini baris file kedua
+ini commit kedua 
+ini garis kedua

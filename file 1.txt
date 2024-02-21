@@ -1,0 +1,3 @@
+ini baris file pertama
+ini commit kedua ya
+ini commit ketiga 

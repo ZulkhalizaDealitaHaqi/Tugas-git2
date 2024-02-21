@@ -1,0 +1,3 @@
+ini baris file ketiga
+ini commit ketiga
+ini garis ketiga
